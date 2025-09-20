@@ -1,4 +1,9 @@
 # RISC-V-SoC-Tapeout-Program-VSD
+![RISC-V](https://img.shields.io/badge/RISC--V-OpenSource-blue?logo=riscv&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-orange?logo=ubuntu&logoColor=white)
+![VSD](https://img.shields.io/badge/VSD-SoC%20Labs-green)
+![India](https://img.shields.io/badge/Made%20in-India-saffron?logo=india&logoColor=white)
+
 Bits to Silicon: My SoC Labs Story
 # VSD SoC Labs Journey
 
