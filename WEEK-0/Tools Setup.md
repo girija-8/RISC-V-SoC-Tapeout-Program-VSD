@@ -65,7 +65,7 @@ sudo apt install gtkwave
 ![gtkwave](./Images/GTKWaves.jpg)
 ### 4. Ngspice ✅
 ```
-Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
+#Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
 tar -zxvf ngspice-37.tar.gz  # change as per the version you download
 cd ngspice-37
 mkdir release
