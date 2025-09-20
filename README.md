@@ -1,6 +1,6 @@
 # RISC-V-SoC-Tapeout-Program-VSD
 ![RISC-V](https://img.shields.io/badge/RISC--V-OpenSource-blue?logo=riscv&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-orange?logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-25.04-orange?logo=ubuntu&logoColor=white)
 ![VSD](https://img.shields.io/badge/VSD-SoC%20Labs-green)
 ![India](https://img.shields.io/badge/Made%20in-India-saffron?logo=india&logoColor=white)
 
@@ -18,16 +18,11 @@ This repository tracks my SoC Labs work from Week 0 onwards: tool installation, 
 - To look back later and see what I struggled with, what I nailed.
 
 ---
+## 📅 Progress Table  
 
-## 📁 Repository Structure
-
-| Folder / File            | What you’ll find there                                |
-|--------------------------|--------------------------------------------------------|
-| Week0/                   | Tool installations & environment setup                |
-| Week1/, Week2/, …        | Weekly lab tasks: RTL, simulation, verification, etc.  |
-| Docs/                    | Misc notes, references, cheatsheets                   |
-| Scripts/                 | Utility scripts                                       |
-| README.md                | This overview                                         |
+| Week   | Status       | Notes                      |
+|--------|--------------|-----------------------------|
+| Week 0 | ✅ Completed | Environment & Tools Setup    |
 
 ---
 
