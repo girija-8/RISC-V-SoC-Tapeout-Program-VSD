@@ -56,6 +56,15 @@ sudo systemctl start docker
 
 # Reboot to apply group changes OR run newgrp docker to skip reboot
 sudo reboot
-~~~
-## 3. Testing
+
+# Testing
 docker run hello-world
+~~~
+## 4. PDKs and Tools Installation
+~~~
+cd $HOME
+git clone https://github.com/The-OpenROAD-Project/OpenLane
+cd OpenLane
+make
+make test
+~~~
