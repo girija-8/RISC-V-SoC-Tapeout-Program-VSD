@@ -31,8 +31,7 @@ The goal is to create a ready-to-use environment for RTL design, simulation, syn
 ---
 ## Commands For Installation
 
-### 1. yosys 
-
+### 1. Yosys 
 ```
 sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
@@ -43,6 +42,45 @@ sudo apt-get install build-essential clang bison flex \
     graphviz xdot pkg-config python3 libboost-system-dev \
     libboost-python-dev libboost-filesystem-dev zlib1g-dev
 make config-gcc
+make
+sudo make install
+```
+
+### 2. Icarus Verilog ✅
+```
+sudo apt-get install iverilog
+```
+
+### 3. GTKWaves ✅
+```
+sudo apt install gtkwave
+```
+
+### 4. Ngspice ✅
+```
+Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
+tar -zxvf ngspice-37.tar.gz  # change as per the version you download
+cd ngspice-37
+mkdir release
+cd release
+../configure --with-x --with-readline=yes --disable-debug
+make
+sudo make install
+```
+
+### 5. Magic ✅
+```
+sudo apt-get install m4
+sudo apt-get install tcsh
+sudo apt-get install csh
+sudo apt-get install libx11-dev
+sudo apt-get install tcl-dev tk-dev
+sudo apt-get install libcairo2-dev
+sudo apt-get install mesa-common-dev libglu1-mesa-dev
+sudo apt-get install libncurses-dev
+git clone https://github.com/RTimothyEdwards/magic
+cd magic
+./configure
 make
 sudo make install
 ```
