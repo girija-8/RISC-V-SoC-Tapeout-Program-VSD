@@ -43,9 +43,9 @@ I would like to thank:
 ---
 ## ✍️ Author
 
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/Made%20by-YourName-blueviolet?style=for-the-badge&logo=github" />
-  </a>
-</p>
+
+- 🧑‍💻 Name: **Girija Ambardekar** 
+- 🚀 Mission: Bits → Silicon  
+- 🌍 GitHub: [github.com/girija-8](https://github.com/girija-8)
+
 
