@@ -29,9 +29,9 @@ The goal is to create a ready-to-use environment for RTL design, simulation, syn
 - **Disk:** 50 GB HDD  
 
 ---
-## Commands For Installation
+## 🛠️Commands For Installation
 
-### 1. Yosys 
+### 1. Yosys ✅
 ```
 sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
