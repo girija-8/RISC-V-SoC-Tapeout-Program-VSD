@@ -45,17 +45,17 @@ make config-gcc
 make
 sudo make install
 ```
-
+![yosys](./Images/yosys.jpg)
 ### 2. Icarus Verilog ✅
 ```
 sudo apt-get install iverilog
 ```
-
+ ![iverilog](./Images/IVerilog.jpg) 
 ### 3. GTKWaves ✅
 ```
 sudo apt install gtkwave
 ```
-
+![gtkwave](./Images/GTKWaves.jpg)
 ### 4. Ngspice ✅
 ```
 Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
@@ -67,7 +67,7 @@ cd release
 make
 sudo make install
 ```
-
+ ![ngspice](./Images/ngspice.jpg)
 ### 5. Magic ✅
 ```
 sudo apt-get install m4
@@ -84,7 +84,7 @@ cd magic
 make
 sudo make install
 ```
-
+![magic](./Images/magic.jpg)
 ---
 ## 🌟 Highlights
 - Verified installation of **six essential open-source EDA tools**.  
