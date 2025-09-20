@@ -85,7 +85,7 @@ make
 sudo make install
 ```
 
-
+---
 ## 🌟 Highlights
 - Verified installation of **six essential open-source EDA tools**.  
 - Environment is now ready for **RTL design, simulation, and chip layout workflows**.  
