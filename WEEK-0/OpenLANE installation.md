@@ -20,7 +20,7 @@ sudo apt install -y apt-transport-https ca-certificates curl software-properties
 ~~~
 ## 2.Docker's Installation
 ~~~
-***Add Docker's official GPG key***
+# Add Docker's official GPG key
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 
 # Set up the Docker repository
@@ -50,7 +50,6 @@ sudo systemctl start docker
 
 # Reboot to apply group changes OR run newgrp docker to skip reboot
 sudo reboot
-
-# After reboot, test Docker without sudo
-docker run hello-world
 ~~~
+## 3. Testing
+docker run hello-world
