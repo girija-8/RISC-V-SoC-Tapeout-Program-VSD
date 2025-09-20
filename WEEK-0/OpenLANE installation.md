@@ -75,4 +75,4 @@ make
 make test
 ~~~
 ## ✅ Verification
-After running 'make test', you should see a successful build message if everything is installed correctly.
+After running **make test**, you should see a successful build message if everything is installed correctly.
