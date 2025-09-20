@@ -94,7 +94,9 @@ sudo make install
 ![magic](./Images/magic.jpg)
 
 ### 6. OpenSTA ✅
-https://github.com/The-OpenROAD-Project/OpenSTA
+```bash
+https://github.com/The-OpenROAD-Project/OpenSTA #Download using this link
+```
 ---
 ## 🌟 Highlights
 - Verified installation of **six essential open-source EDA tools**.  
