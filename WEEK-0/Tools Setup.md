@@ -95,9 +95,9 @@ sudo make install
 
 ## 🙌 Credits
 A big thanks to:  
-- **IIT Gandhinagar** 🏫  
-- **VSD Team & Kunal Ghosh Sir** 👨‍🏫  
-- The global **Open-Source EDA Community** 🌍  
+- **IIT Gandhinagar**   
+- **VSD Team & Kunal Ghosh Sir**   
+- The global **Open-Source EDA Community**   
 
 for making VLSI learning accessible and free.
 
