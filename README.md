@@ -40,3 +40,12 @@ I would like to thank:
 - **IIT Gandhinagar** for supporting the initiative and enabling open-source chip design learning.  
 ![IIT Gandhinagar](https://img.shields.io/badge/IIT-Gandhinagar-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![VSD](https://img.shields.io/badge/VSD-SoC%20Labs-orange?style=for-the-badge&logo=vercel&logoColor=white)
+---
+## ✍️ Author
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/Made%20by-YourName-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
