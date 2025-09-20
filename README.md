@@ -4,9 +4,9 @@
 ![VSD](https://img.shields.io/badge/VSD-SoC%20Labs-green)
 ![India](https://img.shields.io/badge/Made%20in-India-saffron?logo=india&logoColor=white)
 
-✨━━━━━━━━━━ ✦ ━━━━━━━━━━✨  
-**Bits to Silicon: My SoC Labs Story**  
-✨━━━━━━━━━━ ✦ ━━━━━━━━━━✨
+━━━━━━━━━━ ✦ ━━━━━━━━━━  
+***Bits to Silicon: My SoC Labs Story***  
+━━━━━━━━━━ ✦ ━━━━━━━━━━
 
 # VSD SoC Labs Journey
 
