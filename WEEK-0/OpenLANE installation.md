@@ -6,10 +6,16 @@ This repository contains scripts, instructions, and configurations to set up Ope
 
 ## Prerequisites
 
-- Ubuntu 20.04 / 22.04 / 24.04 (tested)
-- Internet connection
-- Git installed
-- Sudo privileges
+Before proceeding, verify that all required tools are installed and available in your PATH:
+
+| Dependency          | Check Command                | Purpose                                  |
+|---------------------|-------------------------------|------------------------------------------|
+| Git                 | `git --version`               | Clone and manage repositories            |
+| Docker              | `docker --version`            | Run OpenLane container environment       |
+| Python 3            | `python3 --version`           | Required for OpenLane scripts and tools   |
+| pip (Python pkg)     | `python3 -m pip --version`   | Python package manager                   |
+| Make                | `make --version`              | Build automation for OpenLane workflows   |
+| venv (Python env)    | `python3 -m venv -h`         | Create isolated Python environments      |
 
 ---
 
