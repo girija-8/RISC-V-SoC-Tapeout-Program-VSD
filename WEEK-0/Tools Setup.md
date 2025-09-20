@@ -7,14 +7,14 @@ The goal is to create a ready-to-use environment for RTL design, simulation, syn
 
 ## 🔧 Installed Tools & Purpose
 
-| 🛠️ Tool | 💡 Why It’s Used | 🔍 Verification | 📸 Proof |
-|---------|------------------|-----------------|----------|
-| **Yosys** | Logic synthesis (convert RTL → gate-level netlist). | `yosys -V` | ![yosys](./screenshots/yosys.png) |
-| **Icarus Verilog** | Verilog simulation & functional verification. | `iverilog -V` | ![iverilog](./screenshots/iverilog.png) |
-| **GTKWave** | View waveforms from simulation (`.vcd` files). | `gtkwave --version` | ![gtkwave](./screenshots/gtkwave.png) |
-| **Ngspice** | Analog & mixed-signal SPICE-level simulation. | `ngspice -v` | ![ngspice](./screenshots/ngspice.png) |
-| **Magic** | Layout editor for VLSI design. | `magic -version` | ![magic](./screenshots/magic.png) |
-| **OpenLANE** | Complete RTL → GDSII flow (synthesis, placement, routing). | `docker --version` <br> `make test` | ![openlane](./screenshots/openlane.png) |
+| 🛠️ Tool | 💡 Why It’s Used | 🔍 Verification | 
+|---------|------------------|-----------------|
+| **Yosys** | Logic synthesis (convert RTL → gate-level netlist). | `yosys -V` |
+| **Icarus Verilog** | Verilog simulation & functional verification. | `iverilog -V` |
+| **GTKWave** | View waveforms from simulation (`.vcd` files). | `gtkwave --version` | 
+| **Ngspice** | Analog & mixed-signal SPICE-level simulation. | `ngspice -v` | 
+| **Magic** | Layout editor for VLSI design. | `magic -version` |
+| **OpenLANE** | Complete RTL → GDSII flow (synthesis, placement, routing). | `docker --version` <br> `make test` | 
 
 ---
 
