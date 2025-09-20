@@ -22,12 +22,12 @@ Before proceeding, verify that all required tools are installed and available in
 ---
 
 ## 🛠️ 1. System Update & Dependencies  
-~~~
+```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common gnupg lsb-release
-~~~
+```
 ## 🐳 2. Docker Installation
-~~~
+```bash
 # Add Docker's official GPG key
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 
@@ -61,9 +61,9 @@ newgrp docker
 
 # Final Test (no sudo required now)
 docker run hello-world
-~~~
+```
 ## 🧰 3. Install OpenLane + PDKs
-~~~
+```bash
 cd $HOME
 git clone https://github.com/The-OpenROAD-Project/OpenLane
 cd OpenLane
@@ -73,6 +73,6 @@ make
 
 # Test the setup
 make test
-~~~
+```
 ## ✅ Verification
 After running **make test**, you should see a successful build message if everything is installed correctly.
