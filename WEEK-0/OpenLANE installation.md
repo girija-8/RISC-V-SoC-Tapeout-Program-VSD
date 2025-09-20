@@ -62,6 +62,7 @@ newgrp docker
 # Final Test (no sudo required now)
 docker run hello-world
 ```
+ ![docker](./Images/docker.jpg)
 ## 🧰 3. Install OpenLane + PDKs
 ```bash
 cd $HOME
