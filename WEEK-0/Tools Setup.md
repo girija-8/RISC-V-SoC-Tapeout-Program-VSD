@@ -101,9 +101,6 @@ A big thanks to:
 
 for making VLSI learning accessible and free.
 
----
-
-## 🏷️ Tech Tags
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu_20.04-blue?logo=ubuntu&style=for-the-badge)
 ![Yosys](https://img.shields.io/badge/Yosys-Synthesis-purple?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Icarus-Verilog-orange?style=for-the-badge)
