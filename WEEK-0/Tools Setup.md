@@ -18,20 +18,35 @@ The goal is to create a ready-to-use environment for RTL design, simulation, syn
 
 ---
 
-## ⚙️ Setup & Installation
-👉 Full installation commands and step-by-step instructions are available here: [Installation.md](./Installation.md)
+# ⚙️ Setup & Installation
 
 ---
 
 ## 🖥️ Environment Details
-- **OS:** Ubuntu 20.04 LTS (running in VirtualBox) 🐧  
+- **OS:** Ubuntu (20.04 LTS onward ) 🐧  
 - **CPU:** 4 vCPUs  
 - **RAM:** 6 GB  
 - **Disk:** 50 GB HDD  
 
-(Also works with **WSL** or a dedicated Ubuntu installation.)
-
 ---
+## Commands For Installation
+
+### 1. yosys 
+
+```
+sudo apt-get update
+git clone https://github.com/YosysHQ/yosys.git
+cd yosys
+sudo apt install make   # if not already installed
+sudo apt-get install build-essential clang bison flex \
+    libreadline-dev gawk tcl-dev libffi-dev git \
+    graphviz xdot pkg-config python3 libboost-system-dev \
+    libboost-python-dev libboost-filesystem-dev zlib1g-dev
+make config-gcc
+make
+sudo make install
+```
+
 
 ## 🌟 Highlights
 - Verified installation of **six essential open-source EDA tools**.  
