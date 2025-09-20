@@ -11,14 +11,14 @@ This repository tracks my SoC Labs work from Week 0 onwards: tool installation, 
 
 ---
 
-## 🎯 Purpose
+### 🎯 Purpose
 
 - To record each week’s tasks, results, and learning.
 - To keep everything reproducible: screenshots, logs, scripts, designs.
 - To look back later and see what I struggled with, what I nailed.
 
 ---
-## 📅 Progress Table  
+### 📅 Progress Table  
 
 | Week   | Status       | Notes                      |
 |--------|--------------|-----------------------------|
@@ -26,9 +26,11 @@ This repository tracks my SoC Labs work from Week 0 onwards: tool installation, 
 
 ---
 
-## 📌 How to Use
+## 🙏 Acknowledgments  
 
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/<your-username>/vsd-soc-labs.git
-   cd vsd-soc-labs
+I would like to thank:  
+- **VSD (VLSI System Design) Team** for providing the open-source SoC Labs platform.  
+- **Kunal Ghosh Sir** for his guidance and mentorship throughout the program.  
+- **IIT Gandhinagar** for supporting the initiative and enabling open-source chip design learning.  
+![IIT Gandhinagar](https://img.shields.io/badge/IIT-Gandhinagar-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+![VSD](https://img.shields.io/badge/VSD-SoC%20Labs-orange?style=for-the-badge&logo=vercel&logoColor=white)
