@@ -39,7 +39,7 @@ The goal is to create a ready-to-use environment for RTL design, simulation, syn
 ## 🛠️Commands For Installation
 
 ### 1. Yosys ✅
-```
+```bash
 sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys
@@ -54,17 +54,17 @@ sudo make install
 ```
 ![yosys](./Images/yosys.jpg)
 ### 2. Icarus Verilog ✅
-```
+```bash
 sudo apt-get install iverilog
 ```
  ![iverilog](./Images/IVerilog.jpg) 
 ### 3. GTKWaves ✅
-```
+```bash
 sudo apt install gtkwave
 ```
 ![gtkwave](./Images/GTKWaves.jpg)
 ### 4. Ngspice ✅
-```
+```bash
 #Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
 tar -zxvf ngspice-37.tar.gz  # change as per the version you download
 cd ngspice-37
@@ -76,7 +76,7 @@ sudo make install
 ```
  ![ngspice](./Images/ngspice.jpg)
 ### 5. Magic ✅
-```
+```bash
 sudo apt-get install m4
 sudo apt-get install tcsh
 sudo apt-get install csh
@@ -92,6 +92,9 @@ make
 sudo make install
 ```
 ![magic](./Images/magic.jpg)
+
+### 6. OpenSTA ✅
+https://github.com/The-OpenROAD-Project/OpenSTA
 ---
 ## 🌟 Highlights
 - Verified installation of **six essential open-source EDA tools**.  
