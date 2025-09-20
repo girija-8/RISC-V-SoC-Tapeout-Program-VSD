@@ -9,12 +9,12 @@ The goal is to create a ready-to-use environment for RTL design, simulation, syn
 
 | 🛠️ Tool | 💡 Why It’s Used | 🔍 Verification | 
 |---------|------------------|-----------------|
-| **Yosys** | Logic synthesis (convert RTL → gate-level netlist). | `yosys -V` |
-| **Icarus Verilog** | Verilog simulation & functional verification. | `iverilog -V` |
-| **GTKWave** | View waveforms from simulation (`.vcd` files). | `gtkwave --version` | 
-| **Ngspice** | Analog & mixed-signal SPICE-level simulation. | `ngspice -v` | 
-| **Magic** | Layout editor for VLSI design. | `magic -version` |
-| **OpenLANE** | Complete RTL → GDSII flow (synthesis, placement, routing). | `docker --version` <br> `make test` | 
+| **Yosys**![Yosys](https://img.shields.io/badge/Yosys-Synthesis-purple?style=for-the-badge) | Logic synthesis (convert RTL → gate-level netlist). | `yosys -V` |
+| **Icarus Verilog**![Verilog](https://img.shields.io/badge/Icarus-Verilog-orange?style=for-the-badge) | Verilog simulation & functional verification. | `iverilog -V` |
+| **GTKWave**![GTKWave](https://img.shields.io/badge/GTKWave-Waveforms-green?style=for-the-badge) | View waveforms from simulation (`.vcd` files). | `gtkwave --version` | 
+| **Ngspice**![Ngspice](https://img.shields.io/badge/Ngspice-SPICE-red?style=for-the-badge) | Analog & mixed-signal SPICE-level simulation. | `ngspice -v` | 
+| **Magic**![Magic](https://img.shields.io/badge/Magic-Layout-lightgrey?style=for-the-badge) | Layout editor for VLSI design. | `magic -version` |
+| **OpenLANE**![OpenLANE](https://img.shields.io/badge/OpenLANE-RTL--to--GDSII-yellow?style=for-the-badge) | Complete RTL → GDSII flow (synthesis, placement, routing). | `docker --version` <br> `make test` | 
 
 ---
 
@@ -100,12 +100,4 @@ A big thanks to:
 - The global **Open-Source EDA Community** 🌍  
 
 for making VLSI learning accessible and free.
-
-![Linux](https://img.shields.io/badge/Linux-Ubuntu_20.04-blue?logo=ubuntu&style=for-the-badge)
-![Yosys](https://img.shields.io/badge/Yosys-Synthesis-purple?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Icarus-Verilog-orange?style=for-the-badge)
-![GTKWave](https://img.shields.io/badge/GTKWave-Waveforms-green?style=for-the-badge)
-![Ngspice](https://img.shields.io/badge/Ngspice-SPICE-red?style=for-the-badge)
-![Magic](https://img.shields.io/badge/Magic-Layout-lightgrey?style=for-the-badge)
-![OpenLANE](https://img.shields.io/badge/OpenLANE-RTL--to--GDSII-yellow?style=for-the-badge)
 
