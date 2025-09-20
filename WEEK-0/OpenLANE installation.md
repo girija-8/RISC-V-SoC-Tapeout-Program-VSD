@@ -18,8 +18,9 @@ This repository contains scripts, instructions, and configurations to set up Ope
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common gnupg lsb-release
 ~~~
+## 2.Docker's Installation
 ~~~
-# Add Docker's official GPG key
+***Add Docker's official GPG key***
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 
 # Set up the Docker repository
