@@ -18,7 +18,14 @@ The goal is to create a ready-to-use environment for RTL design, simulation, syn
 
 ---
 
-# ⚙️ Setup & Installation
+# Task 1 – Getting Started with Digital VLSI SoC Design and Planning ✅
+
+- Learned the fundamentals of the VLSI SoC flow.
+- Understood RTL → synthesis → planning before silicon.
+- Saw how the SoC Labs program aligns with these stages.
+- Ready to move toward RTL → GDSII implementation.
+---
+# Task 2 ⚙️ Setup & Installation
 
 ---
 
